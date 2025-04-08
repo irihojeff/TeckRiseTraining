@@ -1,4 +1,4 @@
-Sure! Here's your complete `README.md` content, fully written in Markdown format:
+
 
 ```markdown
 # AUCA Web Design Project
@@ -15,22 +15,6 @@ If hosted online (e.g., GitHub Pages), you can provide the link here:
 
 ---
 
-## 📁 Project Structure
-
-```
-project-root/
-│
-├── index.html          # Main HTML file
-├── interface.css       # CSS stylesheet
-├── banner2.PNG         # Banner image
-├── pic1.jpg            # Image in announcement section
-├── pic2.jpeg           # AUCA logo
-├── pic11.jpg           # Image in About AUCA section
-├── blue1.jpeg          # Background image
-└── back2.jpg           # Border-image for IT Faculty section
-```
-
----
 
 ## 🚀 Getting Started
 
