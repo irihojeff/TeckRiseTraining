@@ -82,6 +82,6 @@ For questions or feedback, contact:
 
 **Your Name**  
 📧 your.iriho250@gmail.com  
-🌐 [your-website.com](https://irihojaphet.netlify.app/)
+🌐 [My-website.com](https://irihojaphet.netlify.app/)
 ```
 
