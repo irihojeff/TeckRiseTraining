@@ -24,11 +24,8 @@ Follow these instructions to clone and run the project locally.
 3. Run the command below:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/irihojeff/TeckRiseTraining.git)
 ```
-
-> Replace `your-username` and `your-repo-name` with the actual GitHub username and repository name.
-
 ---
 
 ### ▶️ Running the Project
@@ -84,8 +81,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 For questions or feedback, contact:
 
 **Your Name**  
-📧 your.email@example.com  
-🌐 [your-website.com](https://your-website.com)
+📧 your.iriho250@gmail.com  
+🌐 [your-website.com](https://irihojaphet.netlify.app/)
 ```
 
-Let me know if you want to include those missing JavaScript functions or if you'd like the layout to be more mobile-responsive.
