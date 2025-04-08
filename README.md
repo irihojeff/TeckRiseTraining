@@ -3,17 +3,7 @@
 ```markdown
 # AUCA Web Design Project
 
-This is a simple static website designed to represent the **Adventist University of Central Africa (AUCA)**. The project includes multiple sections such as university information, IT faculty description, student marks calculator, and university announcements.
-
----
-
-## 🌐 Live Preview (Optional)
-
-If hosted online (e.g., GitHub Pages), you can provide the link here:
-
-[Live Demo](https://your-username.github.io/your-repo-name)
-
----
+This is for learning HTML and CSS
 
 
 ## 🚀 Getting Started
