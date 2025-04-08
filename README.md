@@ -81,7 +81,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 For questions or feedback, contact:
 
 **Your Name**  
-📧 your.iriho250@gmail.com  
+📧 iriho250@gmail.com  
 🌐 [My-website.com](https://irihojaphet.netlify.app/)
 ```
 
