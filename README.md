@@ -23,9 +23,8 @@ Follow these instructions to clone and run the project locally.
 2. Navigate to the folder where you want to save the project
 3. Run the command below:
 
-```bash
+
 git clone https://github.com/irihojeff/TeckRiseTraining.git
-```
 ---
 
 ### ▶️ Running the Project
