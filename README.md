@@ -32,7 +32,7 @@ git clone https://github.com/irihojeff/TeckRiseTraining.git
 After cloning, follow these steps:
 
 ```bash
-cd your-repo-name
+cd TechRiseTraining
 ```
 
 To open the project:
