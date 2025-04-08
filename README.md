@@ -24,7 +24,7 @@ Follow these instructions to clone and run the project locally.
 3. Run the command below:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/irihojeff/TeckRiseTraining.git)
+git clone https://github.com/irihojeff/TeckRiseTraining.git
 ```
 ---
 
